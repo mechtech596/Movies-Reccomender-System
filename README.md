@@ -6,7 +6,7 @@ It recommends similar movies based on a selected title using cosine similarity o
 ## Features
 - Simple UI with dropdown
 - Top 5 recommendations with posters
-- Uses TMDB API for fetching movie posters
+
 
 ## How to Run Locally
 ```bash
