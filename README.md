@@ -5,7 +5,7 @@ It recommends similar movies based on a selected title using cosine similarity o
 
 ## Features
 - Simple UI with dropdown
-- Top 5 recommendations with posters
+- Top 5 recommendations 
 
 
 ## How to Run Locally
